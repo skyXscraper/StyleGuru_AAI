@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>StyleGuru – AI Shopping Assistant</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='9' fill='%231f1b16'/%3E%3Ctext x='16' y='23' text-anchor='middle' font-family='Georgia,serif' font-size='20' font-weight='600' fill='%23f7f3ed'%3ES%3C/text%3E%3C/svg%3E">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="brand-mark">S</span>
+      <div>
+        <h1>StyleGuru</h1>
+        <p>Your AI shopping assistant</p>
+      </div>
+    </div>
+    <nav>
+      <button class="ghost" id="open-profile">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21c0-4.4 3.6-8 8-8s8 3.600 8 8"/></svg>
+        My style
+      </button>
+      <button class="ghost" id="open-privacy">
+        <svg viewBox="0 0 24 24"><path d="M12 3l8 3v6c0 4.500-3.200 8.300-8 9-4.800-.700-8-4.500-8-9V6l8-3z"/></svg>
+        Privacy
+        <span class="status-dot" id="personalise-dot" title="Personalisation is on"></span>
+      </button>
+    </nav>
+  </header>
+
+  <main class="layout">
+    <section class="chat" aria-label="Chat with StyleGuru">
+      <div class="messages" id="messages" aria-live="polite"></div>
+
+      <div class="starters" id="starters">
+        <button>A navy kurta under ₹1500 for a wedding</button>
+        <button>Formal shoes for an interview, size 8</button>
+        <button>Casual tops for summer</button>
+        <button>A gift for my dad under ₹3000</button>
+      </div>
+
+      <form class="composer" id="composer">
+        <div class="attachment" id="attachment" hidden>
+          <img id="attachment-preview" alt="Photo to send">
+          <span>Photo attached</span>
+          <button type="button" id="remove-attachment" aria-label="Remove photo">×</button>
+        </div>
+        <div class="composer-row">
+          <button type="button" class="icon-button" id="attach" title="Search with a photo" aria-label="Attach a photo">
+            <svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="3"/><circle cx="9" cy="10.500" r="1.800"/><path d="M4 17l5-4 4 3 3-2 4 3"/></svg>
+          </button>
+          <input type="file" id="file" accept="image/*" hidden>
+          <textarea id="input" rows="1" placeholder="What are you looking for?" aria-label="Message"></textarea>
+          <button type="submit" class="send" id="send" aria-label="Send">
+            <svg viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+          </button>
+        </div>
+      </form>
+    </section>
+
+    <section class="results" aria-label="Products">
+      <div class="results-head">
+        <h2 id="results-title">Popular right now</h2>
+        <p id="results-subtitle">Tell StyleGuru what you need, or share a photo, and matches appear here.</p>
+        <div class="chips" id="chips"></div>
+      </div>
+      <div class="grid" id="grid"></div>
+    </section>
+  </main>
+
+  <aside class="drawer" id="profile-drawer" aria-label="My style" hidden>
+    <div class="drawer-head">
+      <h2>My style</h2>
+      <button class="icon-button close" aria-label="Close">×</button>
+    </div>
+    <p class="hint">Used to rank recommendations and check stock in your size. Saved only in this browser.</p>
+    <p class="notice" id="profile-off-notice" hidden>Personalisation is off, so this profile is not being used.</p>
+
+    <label>I shop for
+      <select id="p-gender">
+        <option value="">No preference</option>
+        <option>Women</option>
+        <option>Men</option>
+      </select>
+    </label>
+    <div class="two">
+      <label>Clothing size
+        <select id="p-size">
+          <option value="">Not set</option>
+          <option>S</option><option>M</option><option>L</option><option>XL</option><option>XXL</option>
+        </select>
+      </label>
+      <label>Shoe size (UK)
+        <select id="p-shoe">
+          <option value="">Not set</option>
+          <option>4</option><option>5</option><option>6</option><option>7</option><option>8</option><option>9</option><option>10</option>
+        </select>
+      </label>
+    </div>
+    <label>Usual budget per item (₹)
+      <input type="number" id="p-budget" min="0" step="100" placeholder="e.g. 2000">
+    </label>
+    <div class="field">
+      <span>Favourite colours</span>
+      <div class="swatches" id="p-colours"></div>
+    </div>
+    <div class="field">
+      <span>Liked items</span>
+      <p class="hint" id="p-liked"></p>
+    </div>
+  </aside>
+
+  <aside class="drawer" id="privacy-drawer" aria-label="Privacy" hidden>
+    <div class="drawer-head">
+      <h2>Privacy</h2>
+      <button class="icon-button close" aria-label="Close">×</button>
+    </div>
+
+    <label class="switch-row">
+      <span>
+        <strong>Personalise my recommendations</strong>
+        <small>When off, your style profile and likes are never sent to the server.</small>
+      </span>
+      <input type="checkbox" id="personalise">
+    </label>
+
+    <h3>How your data is handled</h3>
+    <ul class="facts">
+      <li><strong>Chat</strong> lives only in this tab and is gone when you refresh or close it.</li>
+      <li><strong>Photos</strong> are shrunk, stripped of metadata such as location, analysed by Google Gemini, and never saved by this store.</li>
+      <li><strong>Your style profile</strong> is saved in this browser only, not in an account or database.</li>
+      <li><strong>The assistant</strong> describes only the clothing in a photo, never the person wearing it.</li>
+    </ul>
+
+    <h3>Stored on this device</h3>
+    <pre id="stored-data"></pre>
+
+    <button class="danger" id="delete-data">Delete all my data</button>
+  </aside>
+
+  <div class="scrim" id="scrim" hidden></div>
+
+  <div class="modal" id="consent" role="dialog" aria-modal="true" aria-labelledby="consent-title" hidden>
+    <div class="modal-card">
+      <h2 id="consent-title">Before you share a photo</h2>
+      <ul class="facts">
+        <li>Your photo is sent to <strong>Google Gemini</strong> so the assistant can recognise the item in it.</li>
+        <li>We remove metadata such as location first, and we never save the photo.</li>
+        <li>Avoid photos that show faces or anything else you'd rather keep private.</li>
+      </ul>
+      <div class="modal-actions">
+        <button class="ghost" id="consent-no">Not now</button>
+        <button class="primary" id="consent-yes">I agree, continue</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>

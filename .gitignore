@@ -1,0 +1,20 @@
+# Secrets (contains the Gemini API key)
+.env
+.env.*
+
+# Python virtual environment and caches
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Downloaded dataset files (only needed to rebuild the catalogue)
+*.parquet
+
+# Editor, tool and OS files
+.vscode/
+.idea/
+.claude/
+Thumbs.db
+desktop.ini
+.DS_Store

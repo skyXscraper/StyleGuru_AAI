@@ -1,0 +1,1598 @@
+[
+  {
+    "id": 9627,
+    "name": "Indigo Nation Men Plain Shirt Orange Shirts",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Shirts",
+    "colour": "Orange",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 1099,
+    "rating": 4.9,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "image": "/static/images/9627.jpg"
+  },
+  {
+    "id": 12663,
+    "name": "Probase Men Stripes Blue Shirts",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Shirts",
+    "colour": "Blue",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 2099,
+    "rating": 4.2,
+    "stock": {
+      "S": 3,
+      "M": 0,
+      "L": 0,
+      "XL": 3,
+      "XXL": 12
+    },
+    "image": "/static/images/12663.jpg"
+  },
+  {
+    "id": 19177,
+    "name": "United Colors Of Benetton Men Navy Blue Shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Shirts",
+    "colour": "Navy Blue",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 2199,
+    "rating": 3.8,
+    "stock": {
+      "S": 2,
+      "M": 0,
+      "L": 0,
+      "XL": 12,
+      "XXL": 12
+    },
+    "image": "/static/images/19177.jpg"
+  },
+  {
+    "id": 33552,
+    "name": "Wrangler Men Brown Striped Shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Shirts",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1899,
+    "rating": 4.3,
+    "stock": {
+      "S": 0,
+      "M": 1,
+      "L": 2,
+      "XL": 8,
+      "XXL": 0
+    },
+    "image": "/static/images/33552.jpg"
+  },
+  {
+    "id": 37768,
+    "name": "John Players Men Gingham Green Shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Shirts",
+    "colour": "Green",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1699,
+    "rating": 4.0,
+    "stock": {
+      "S": 3,
+      "M": 0,
+      "L": 12,
+      "XL": 12,
+      "XXL": 2
+    },
+    "image": "/static/images/37768.jpg"
+  },
+  {
+    "id": 12241,
+    "name": "Genesis Men Stripes White Shirts",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Shirts",
+    "colour": "White",
+    "occasion": "Formal",
+    "season": "Fall",
+    "price": 1999,
+    "rating": 3.9,
+    "stock": {
+      "S": 0,
+      "M": 5,
+      "L": 2,
+      "XL": 8,
+      "XXL": 2
+    },
+    "image": "/static/images/12241.jpg"
+  },
+  {
+    "id": 2621,
+    "name": "Nike Men's Bleed blue India Colors T-shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Tshirts",
+    "colour": "Blue",
+    "occasion": "Sports",
+    "season": "Fall",
+    "price": 1299,
+    "rating": 4.2,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 8,
+      "XL": 2,
+      "XXL": 0
+    },
+    "image": "/static/images/2621.jpg"
+  },
+  {
+    "id": 4793,
+    "name": "ADIDAS Men's Dare Green T-shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Tshirts",
+    "colour": "Green",
+    "occasion": "Sports",
+    "season": "Summer",
+    "price": 499,
+    "rating": 3.9,
+    "stock": {
+      "S": 0,
+      "M": 2,
+      "L": 12,
+      "XL": 8,
+      "XXL": 0
+    },
+    "image": "/static/images/4793.jpg"
+  },
+  {
+    "id": 32492,
+    "name": "Proline Men Olive T-shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Tshirts",
+    "colour": "Olive",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 899,
+    "rating": 3.7,
+    "stock": {
+      "S": 3,
+      "M": 0,
+      "L": 3,
+      "XL": 1,
+      "XXL": 12
+    },
+    "image": "/static/images/32492.jpg"
+  },
+  {
+    "id": 4296,
+    "name": "Tantra Men's Hum Hindustani Choco Brown T-shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Tshirts",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1199,
+    "rating": 4.5,
+    "stock": {
+      "S": 5,
+      "M": 0,
+      "L": 5,
+      "XL": 0,
+      "XXL": 12
+    },
+    "image": "/static/images/4296.jpg"
+  },
+  {
+    "id": 2023,
+    "name": "ADIDAS Mens Chrome Graphic T-shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Tshirts",
+    "colour": "Grey",
+    "occasion": "Sports",
+    "season": "Fall",
+    "price": 899,
+    "rating": 4.4,
+    "stock": {
+      "S": 8,
+      "M": 8,
+      "L": 8,
+      "XL": 1,
+      "XXL": 3
+    },
+    "image": "/static/images/2023.jpg"
+  },
+  {
+    "id": 5836,
+    "name": "ADIDAS Men's Gdancin Pink T-shirt",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Tshirts",
+    "colour": "Pink",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 699,
+    "rating": 4.5,
+    "stock": {
+      "S": 0,
+      "M": 1,
+      "L": 1,
+      "XL": 0,
+      "XXL": 5
+    },
+    "image": "/static/images/5836.jpg"
+  },
+  {
+    "id": 11289,
+    "name": "Wrangler Men Blue Texas Jeans",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Blue",
+    "occasion": "Casual",
+    "season": "Spring",
+    "price": 2499,
+    "rating": 4.7,
+    "stock": {
+      "S": 5,
+      "M": 12,
+      "L": 3,
+      "XL": 1,
+      "XXL": 12
+    },
+    "image": "/static/images/11289.jpg"
+  },
+  {
+    "id": 11348,
+    "name": "Lee Men Navy Blue Powell Fit Jeans",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Navy Blue",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2699,
+    "rating": 4.1,
+    "stock": {
+      "S": 0,
+      "M": 1,
+      "L": 0,
+      "XL": 12,
+      "XXL": 1
+    },
+    "image": "/static/images/11348.jpg"
+  },
+  {
+    "id": 21586,
+    "name": "Locomotive Men Washed Grey Jeans",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Grey",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1599,
+    "rating": 3.9,
+    "stock": {
+      "S": 0,
+      "M": 12,
+      "L": 3,
+      "XL": 12,
+      "XXL": 0
+    },
+    "image": "/static/images/21586.jpg"
+  },
+  {
+    "id": 48066,
+    "name": "French Connection Men Black Jeans",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2899,
+    "rating": 4.7,
+    "stock": {
+      "S": 1,
+      "M": 0,
+      "L": 1,
+      "XL": 1,
+      "XXL": 0
+    },
+    "image": "/static/images/48066.jpg"
+  },
+  {
+    "id": 29780,
+    "name": "Basics Men Black Trousers",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Trousers",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1499,
+    "rating": 4.7,
+    "stock": {
+      "S": 0,
+      "M": 12,
+      "L": 3,
+      "XL": 3,
+      "XXL": 12
+    },
+    "image": "/static/images/29780.jpg"
+  },
+  {
+    "id": 8835,
+    "name": "Scullers Men Scul Green Trousers",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Trousers",
+    "colour": "Green",
+    "occasion": "Formal",
+    "season": "Summer",
+    "price": 999,
+    "rating": 4.6,
+    "stock": {
+      "S": 12,
+      "M": 3,
+      "L": 0,
+      "XL": 0,
+      "XXL": 5
+    },
+    "image": "/static/images/8835.jpg"
+  },
+  {
+    "id": 8842,
+    "name": "Scullers Men Scul Beige Trousers",
+    "gender": "Men",
+    "category": "Bottomwear",
+    "type": "Trousers",
+    "colour": "Beige",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1699,
+    "rating": 4.3,
+    "stock": {
+      "S": 1,
+      "M": 8,
+      "L": 0,
+      "XL": 8,
+      "XXL": 2
+    },
+    "image": "/static/images/8842.jpg"
+  },
+  {
+    "id": 30790,
+    "name": "Fabindia Men Teal Tussar Kurta",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Teal",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 2199,
+    "rating": 3.6,
+    "stock": {
+      "S": 12,
+      "M": 3,
+      "L": 2,
+      "XL": 2,
+      "XXL": 0
+    },
+    "image": "/static/images/30790.jpg"
+  },
+  {
+    "id": 32199,
+    "name": "Fabindia Men Printed Beige Kurta",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Beige",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 699,
+    "rating": 4.7,
+    "stock": {
+      "S": 3,
+      "M": 8,
+      "L": 0,
+      "XL": 8,
+      "XXL": 12
+    },
+    "image": "/static/images/32199.jpg"
+  },
+  {
+    "id": 30770,
+    "name": "Fabindia Men Grey Printed Silk Kurta",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Grey",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 1699,
+    "rating": 4.0,
+    "stock": {
+      "S": 0,
+      "M": 3,
+      "L": 1,
+      "XL": 3,
+      "XXL": 3
+    },
+    "image": "/static/images/30770.jpg"
+  },
+  {
+    "id": 56699,
+    "name": "Fabindia Men Green Kurta",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Green",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 1999,
+    "rating": 4.3,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "image": "/static/images/56699.jpg"
+  },
+  {
+    "id": 9947,
+    "name": "ADIDAS Men Torment Blue Jackets",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Jackets",
+    "colour": "Blue",
+    "occasion": "Sports",
+    "season": "Fall",
+    "price": 2799,
+    "rating": 4.1,
+    "stock": {
+      "S": 0,
+      "M": 8,
+      "L": 2,
+      "XL": 0,
+      "XXL": 8
+    },
+    "image": "/static/images/9947.jpg"
+  },
+  {
+    "id": 19334,
+    "name": "United Colors of Benetton Men Check Maroon Jacket",
+    "gender": "Men",
+    "category": "Topwear",
+    "type": "Jackets",
+    "colour": "Maroon",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 2499,
+    "rating": 4.0,
+    "stock": {
+      "S": 1,
+      "M": 1,
+      "L": 0,
+      "XL": 3,
+      "XXL": 3
+    },
+    "image": "/static/images/19334.jpg"
+  },
+  {
+    "id": 12896,
+    "name": "Puma Men Yacht Battleship Brown Casual Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Casual Shoes",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 3199,
+    "rating": 4.0,
+    "stock": {
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "image": "/static/images/12896.jpg"
+  },
+  {
+    "id": 11833,
+    "name": "Playboy Men Casual Green Casual Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Casual Shoes",
+    "colour": "Green",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2699,
+    "rating": 4.8,
+    "stock": {
+      "6": 12,
+      "7": 2,
+      "8": 8,
+      "9": 1,
+      "10": 0
+    },
+    "image": "/static/images/11833.jpg"
+  },
+  {
+    "id": 15517,
+    "name": "Rockport Men LLandro Red Casual Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Casual Shoes",
+    "colour": "Red",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 2799,
+    "rating": 4.3,
+    "stock": {
+      "6": 12,
+      "7": 2,
+      "8": 3,
+      "9": 0,
+      "10": 8
+    },
+    "image": "/static/images/15517.jpg"
+  },
+  {
+    "id": 21736,
+    "name": "Vans Men Chukka Low Grey Casual Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Casual Shoes",
+    "colour": "Grey",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 2499,
+    "rating": 4.8,
+    "stock": {
+      "6": 2,
+      "7": 5,
+      "8": 5,
+      "9": 5,
+      "10": 0
+    },
+    "image": "/static/images/21736.jpg"
+  },
+  {
+    "id": 22136,
+    "name": "Provouge Men Black Formal Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Formal Shoes",
+    "colour": "Black",
+    "occasion": "Formal",
+    "season": "Fall",
+    "price": 2599,
+    "rating": 3.8,
+    "stock": {
+      "6": 3,
+      "7": 5,
+      "8": 0,
+      "9": 5,
+      "10": 2
+    },
+    "image": "/static/images/22136.jpg"
+  },
+  {
+    "id": 7390,
+    "name": "Red Tape Men Brown Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Formal Shoes",
+    "colour": "Brown",
+    "occasion": "Formal",
+    "season": "Winter",
+    "price": 3799,
+    "rating": 4.3,
+    "stock": {
+      "6": 0,
+      "7": 0,
+      "8": 0,
+      "9": 0,
+      "10": 0
+    },
+    "image": "/static/images/7390.jpg"
+  },
+  {
+    "id": 45592,
+    "name": "Arrow Men Tan Formal Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Formal Shoes",
+    "colour": "Tan",
+    "occasion": "Formal",
+    "season": "Summer",
+    "price": 3799,
+    "rating": 4.3,
+    "stock": {
+      "6": 2,
+      "7": 12,
+      "8": 12,
+      "9": 0,
+      "10": 0
+    },
+    "image": "/static/images/45592.jpg"
+  },
+  {
+    "id": 17416,
+    "name": "Lotto Men Atlantica Black Sports Shoe",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Sports Shoes",
+    "colour": "Black",
+    "occasion": "Sports",
+    "season": "Fall",
+    "price": 2799,
+    "rating": 3.9,
+    "stock": {
+      "6": 3,
+      "7": 0,
+      "8": 1,
+      "9": 0,
+      "10": 5
+    },
+    "image": "/static/images/17416.jpg"
+  },
+  {
+    "id": 44400,
+    "name": "Force 10 Men White & Blue Duplay Sports Shoes",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Sports Shoes",
+    "colour": "White",
+    "occasion": "Sports",
+    "season": "Summer",
+    "price": 3099,
+    "rating": 4.1,
+    "stock": {
+      "6": 12,
+      "7": 3,
+      "8": 1,
+      "9": 12,
+      "10": 12
+    },
+    "image": "/static/images/44400.jpg"
+  },
+  {
+    "id": 4332,
+    "name": "Puma Men's Graffiti Blue Black Orange Shoe",
+    "gender": "Men",
+    "category": "Shoes",
+    "type": "Sports Shoes",
+    "colour": "Blue",
+    "occasion": "Sports",
+    "season": "Summer",
+    "price": 2599,
+    "rating": 4.8,
+    "stock": {
+      "6": 12,
+      "7": 0,
+      "8": 5,
+      "9": 5,
+      "10": 1
+    },
+    "image": "/static/images/4332.jpg"
+  },
+  {
+    "id": 45931,
+    "name": "Maxima Men Black Watch",
+    "gender": "Men",
+    "category": "Watches",
+    "type": "Watches",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1699,
+    "rating": 3.9,
+    "stock": {
+      "One Size": 5
+    },
+    "image": "/static/images/45931.jpg"
+  },
+  {
+    "id": 59241,
+    "name": "Titan Men White Watch",
+    "gender": "Men",
+    "category": "Watches",
+    "type": "Watches",
+    "colour": "White",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1599,
+    "rating": 4.3,
+    "stock": {
+      "One Size": 0
+    },
+    "image": "/static/images/59241.jpg"
+  },
+  {
+    "id": 11188,
+    "name": "Carrera Men Dial steel finish strap Silver Watches",
+    "gender": "Men",
+    "category": "Watches",
+    "type": "Watches",
+    "colour": "Silver",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 3699,
+    "rating": 4.5,
+    "stock": {
+      "One Size": 1
+    },
+    "image": "/static/images/11188.jpg"
+  },
+  {
+    "id": 21923,
+    "name": "BIBA Women Printed Black Kurta",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Black",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 699,
+    "rating": 4.9,
+    "stock": {
+      "S": 8,
+      "M": 1,
+      "L": 12,
+      "XL": 12,
+      "XXL": 3
+    },
+    "image": "/static/images/21923.jpg"
+  },
+  {
+    "id": 54567,
+    "name": "Sushilas Women Printed Maroon Kurta",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Maroon",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 599,
+    "rating": 4.8,
+    "stock": {
+      "S": 0,
+      "M": 2,
+      "L": 3,
+      "XL": 12,
+      "XXL": 3
+    },
+    "image": "/static/images/54567.jpg"
+  },
+  {
+    "id": 59367,
+    "name": "Vishudh Women Brown & Yellow Kurta",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Brown",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 999,
+    "rating": 4.8,
+    "stock": {
+      "S": 3,
+      "M": 8,
+      "L": 5,
+      "XL": 12,
+      "XXL": 3
+    },
+    "image": "/static/images/59367.jpg"
+  },
+  {
+    "id": 19081,
+    "name": "W Women Thread Work Red Kurta",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Red",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 1399,
+    "rating": 4.5,
+    "stock": {
+      "S": 12,
+      "M": 0,
+      "L": 2,
+      "XL": 5,
+      "XXL": 3
+    },
+    "image": "/static/images/19081.jpg"
+  },
+  {
+    "id": 11603,
+    "name": "W Women Solid Grey Kurtas",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Grey",
+    "occasion": "Ethnic",
+    "season": "Summer",
+    "price": 1399,
+    "rating": 3.8,
+    "stock": {
+      "S": 0,
+      "M": 8,
+      "L": 0,
+      "XL": 5,
+      "XXL": 0
+    },
+    "image": "/static/images/11603.jpg"
+  },
+  {
+    "id": 15844,
+    "name": "Visudh Blue Printed Ethnic Kurta",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Kurtas",
+    "colour": "Blue",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 899,
+    "rating": 3.7,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "image": "/static/images/15844.jpg"
+  },
+  {
+    "id": 47655,
+    "name": "Femella Women Grey Polka Dotted Dress",
+    "gender": "Women",
+    "category": "Dress",
+    "type": "Dresses",
+    "colour": "Grey",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1699,
+    "rating": 3.6,
+    "stock": {
+      "S": 0,
+      "M": 2,
+      "L": 2,
+      "XL": 2,
+      "XXL": 8
+    },
+    "image": "/static/images/47655.jpg"
+  },
+  {
+    "id": 33209,
+    "name": "Sepia Women Printed White Dress",
+    "gender": "Women",
+    "category": "Dress",
+    "type": "Dresses",
+    "colour": "White",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2399,
+    "rating": 4.0,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 1,
+      "XXL": 8
+    },
+    "image": "/static/images/33209.jpg"
+  },
+  {
+    "id": 33225,
+    "name": "Sepia Women Pink Dress",
+    "gender": "Women",
+    "category": "Dress",
+    "type": "Dresses",
+    "colour": "Pink",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2399,
+    "rating": 4.8,
+    "stock": {
+      "S": 3,
+      "M": 12,
+      "L": 1,
+      "XL": 0,
+      "XXL": 2
+    },
+    "image": "/static/images/33225.jpg"
+  },
+  {
+    "id": 46277,
+    "name": "109F Red & White A-Line Dress",
+    "gender": "Women",
+    "category": "Dress",
+    "type": "Dresses",
+    "colour": "Red",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1899,
+    "rating": 3.9,
+    "stock": {
+      "S": 2,
+      "M": 0,
+      "L": 12,
+      "XL": 12,
+      "XXL": 0
+    },
+    "image": "/static/images/46277.jpg"
+  },
+  {
+    "id": 57043,
+    "name": "Elle Black Dress",
+    "gender": "Women",
+    "category": "Dress",
+    "type": "Dresses",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2999,
+    "rating": 3.7,
+    "stock": {
+      "S": 0,
+      "M": 8,
+      "L": 5,
+      "XL": 1,
+      "XXL": 12
+    },
+    "image": "/static/images/57043.jpg"
+  },
+  {
+    "id": 38839,
+    "name": "Latin Quarters Women Black Printed Dress",
+    "gender": "Women",
+    "category": "Dress",
+    "type": "Dresses",
+    "colour": "Olive",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1999,
+    "rating": 4.7,
+    "stock": {
+      "S": 2,
+      "M": 0,
+      "L": 1,
+      "XL": 5,
+      "XXL": 0
+    },
+    "image": "/static/images/38839.jpg"
+  },
+  {
+    "id": 42200,
+    "name": "Sepia Women Yellow Top",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Tops",
+    "colour": "Yellow",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 999,
+    "rating": 4.1,
+    "stock": {
+      "S": 2,
+      "M": 0,
+      "L": 8,
+      "XL": 8,
+      "XXL": 5
+    },
+    "image": "/static/images/42200.jpg"
+  },
+  {
+    "id": 57147,
+    "name": "Elle Women White Tube Top",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Tops",
+    "colour": "White",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 799,
+    "rating": 3.8,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "image": "/static/images/57147.jpg"
+  },
+  {
+    "id": 18899,
+    "name": "Arrow Woman Igor Maroon Top",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Tops",
+    "colour": "Maroon",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 1499,
+    "rating": 4.8,
+    "stock": {
+      "S": 8,
+      "M": 3,
+      "L": 0,
+      "XL": 3,
+      "XXL": 8
+    },
+    "image": "/static/images/18899.jpg"
+  },
+  {
+    "id": 9799,
+    "name": "Scullers For Her Women Scullers Top Magenta Tops",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Tops",
+    "colour": "Magenta",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 1399,
+    "rating": 4.2,
+    "stock": {
+      "S": 5,
+      "M": 3,
+      "L": 0,
+      "XL": 12,
+      "XXL": 5
+    },
+    "image": "/static/images/9799.jpg"
+  },
+  {
+    "id": 21169,
+    "name": "s.Oliver Women Blue Printed Top",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Tops",
+    "colour": "Blue",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 1399,
+    "rating": 3.7,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 0,
+      "XL": 0,
+      "XXL": 0
+    },
+    "image": "/static/images/21169.jpg"
+  },
+  {
+    "id": 45965,
+    "name": "Tokyo Talkies Women Grey Melange Printed Top",
+    "gender": "Women",
+    "category": "Topwear",
+    "type": "Tops",
+    "colour": "Grey Melange",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1199,
+    "rating": 3.8,
+    "stock": {
+      "S": 3,
+      "M": 0,
+      "L": 12,
+      "XL": 5,
+      "XXL": 1
+    },
+    "image": "/static/images/45965.jpg"
+  },
+  {
+    "id": 52917,
+    "name": "FNF Orange Printed Sari",
+    "gender": "Women",
+    "category": "Saree",
+    "type": "Sarees",
+    "colour": "Orange",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 2999,
+    "rating": 3.7,
+    "stock": {
+      "One Size": 5
+    },
+    "image": "/static/images/52917.jpg"
+  },
+  {
+    "id": 59639,
+    "name": "FNF Green Wedding Collection Sari",
+    "gender": "Women",
+    "category": "Saree",
+    "type": "Sarees",
+    "colour": "Green",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 4799,
+    "rating": 4.6,
+    "stock": {
+      "One Size": 12
+    },
+    "image": "/static/images/59639.jpg"
+  },
+  {
+    "id": 50893,
+    "name": "Prafful Yellow & Blue Sari",
+    "gender": "Women",
+    "category": "Saree",
+    "type": "Sarees",
+    "colour": "Blue",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 2799,
+    "rating": 3.8,
+    "stock": {
+      "One Size": 12
+    },
+    "image": "/static/images/50893.jpg"
+  },
+  {
+    "id": 49928,
+    "name": "Fabindia Beige Hand Printed Sari",
+    "gender": "Women",
+    "category": "Saree",
+    "type": "Sarees",
+    "colour": "Beige",
+    "occasion": "Ethnic",
+    "season": "Fall",
+    "price": 1899,
+    "rating": 4.8,
+    "stock": {
+      "One Size": 2
+    },
+    "image": "/static/images/49928.jpg"
+  },
+  {
+    "id": 50949,
+    "name": "Lee Women Navy Blue Roxy Fit Jeans",
+    "gender": "Women",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Navy Blue",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2299,
+    "rating": 4.0,
+    "stock": {
+      "S": 0,
+      "M": 0,
+      "L": 8,
+      "XL": 2,
+      "XXL": 2
+    },
+    "image": "/static/images/50949.jpg"
+  },
+  {
+    "id": 7180,
+    "name": "Jealous 21 Women Zipped Ankle Shimmer Blue Jeans",
+    "gender": "Women",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Blue",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 1399,
+    "rating": 4.6,
+    "stock": {
+      "S": 0,
+      "M": 8,
+      "L": 3,
+      "XL": 2,
+      "XXL": 12
+    },
+    "image": "/static/images/7180.jpg"
+  },
+  {
+    "id": 9150,
+    "name": "Lee Black Maxi Super-Skinny Jeans",
+    "gender": "Women",
+    "category": "Bottomwear",
+    "type": "Jeans",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2199,
+    "rating": 4.7,
+    "stock": {
+      "S": 8,
+      "M": 12,
+      "L": 1,
+      "XL": 3,
+      "XXL": 0
+    },
+    "image": "/static/images/9150.jpg"
+  },
+  {
+    "id": 18555,
+    "name": "Catwalk Women Casual Brown Flats",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Heels",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1399,
+    "rating": 4.9,
+    "stock": {
+      "4": 0,
+      "5": 0,
+      "6": 0,
+      "7": 0,
+      "8": 0
+    },
+    "image": "/static/images/18555.jpg"
+  },
+  {
+    "id": 41675,
+    "name": "Catwalk Women Silver Flats",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Heels",
+    "colour": "Silver",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1099,
+    "rating": 4.1,
+    "stock": {
+      "4": 0,
+      "5": 8,
+      "6": 5,
+      "7": 1,
+      "8": 3
+    },
+    "image": "/static/images/41675.jpg"
+  },
+  {
+    "id": 14348,
+    "name": "Catwalk Women Casual White Flats",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Heels",
+    "colour": "White",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1199,
+    "rating": 4.2,
+    "stock": {
+      "4": 0,
+      "5": 8,
+      "6": 2,
+      "7": 3,
+      "8": 8
+    },
+    "image": "/static/images/14348.jpg"
+  },
+  {
+    "id": 35802,
+    "name": "Enroute Women Mustard Flats",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Heels",
+    "colour": "Mustard",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2699,
+    "rating": 4.1,
+    "stock": {
+      "4": 3,
+      "5": 8,
+      "6": 2,
+      "7": 2,
+      "8": 2
+    },
+    "image": "/static/images/35802.jpg"
+  },
+  {
+    "id": 20776,
+    "name": "Carlton London Women Classy Black Sandals",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Flats",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 1199,
+    "rating": 3.9,
+    "stock": {
+      "4": 2,
+      "5": 3,
+      "6": 8,
+      "7": 0,
+      "8": 0
+    },
+    "image": "/static/images/20776.jpg"
+  },
+  {
+    "id": 19050,
+    "name": "Catwalk Women Closed Brown Sandals",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Flats",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 699,
+    "rating": 4.8,
+    "stock": {
+      "4": 5,
+      "5": 3,
+      "6": 0,
+      "7": 2,
+      "8": 0
+    },
+    "image": "/static/images/19050.jpg"
+  },
+  {
+    "id": 8169,
+    "name": "Catwalk Women Casual White Flats",
+    "gender": "Women",
+    "category": "Shoes",
+    "type": "Flats",
+    "colour": "White",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1099,
+    "rating": 4.7,
+    "stock": {
+      "4": 2,
+      "5": 0,
+      "6": 12,
+      "7": 1,
+      "8": 0
+    },
+    "image": "/static/images/8169.jpg"
+  },
+  {
+    "id": 42839,
+    "name": "French Connection Women Brown Handbag",
+    "gender": "Women",
+    "category": "Bags",
+    "type": "Handbags",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1899,
+    "rating": 3.8,
+    "stock": {
+      "One Size": 12
+    },
+    "image": "/static/images/42839.jpg"
+  },
+  {
+    "id": 25210,
+    "name": "Lino Perros Women Leatherette Grey Handbag",
+    "gender": "Women",
+    "category": "Bags",
+    "type": "Handbags",
+    "colour": "Grey",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 2999,
+    "rating": 4.3,
+    "stock": {
+      "One Size": 2
+    },
+    "image": "/static/images/25210.jpg"
+  },
+  {
+    "id": 52647,
+    "name": "Mod'acc Women Black Handbag",
+    "gender": "Women",
+    "category": "Bags",
+    "type": "Handbags",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1799,
+    "rating": 3.7,
+    "stock": {
+      "One Size": 12
+    },
+    "image": "/static/images/52647.jpg"
+  },
+  {
+    "id": 57253,
+    "name": "Murcia Women Orange Handbag",
+    "gender": "Women",
+    "category": "Bags",
+    "type": "Handbags",
+    "colour": "Orange",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 2699,
+    "rating": 4.6,
+    "stock": {
+      "One Size": 2
+    },
+    "image": "/static/images/57253.jpg"
+  },
+  {
+    "id": 17433,
+    "name": "CASIO Sheen Women White Dial Chronograph Watch (SH100) SHN-3008D-7ADR",
+    "gender": "Women",
+    "category": "Watches",
+    "type": "Watches",
+    "colour": "White",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 5599,
+    "rating": 4.4,
+    "stock": {
+      "One Size": 2
+    },
+    "image": "/static/images/17433.jpg"
+  },
+  {
+    "id": 43171,
+    "name": "Fastrack Women Black Dial Watch",
+    "gender": "Women",
+    "category": "Watches",
+    "type": "Watches",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 6099,
+    "rating": 4.6,
+    "stock": {
+      "One Size": 0
+    },
+    "image": "/static/images/43171.jpg"
+  },
+  {
+    "id": 31706,
+    "name": "Fabindia Women Ananya Gold Earrings",
+    "gender": "Women",
+    "category": "Jewellery",
+    "type": "Earrings",
+    "colour": "Gold",
+    "occasion": "Ethnic",
+    "season": "Winter",
+    "price": 399,
+    "rating": 4.1,
+    "stock": {
+      "One Size": 3
+    },
+    "image": "/static/images/31706.jpg"
+  },
+  {
+    "id": 58086,
+    "name": "Rreverie Silver & Black Earrings",
+    "gender": "Women",
+    "category": "Jewellery",
+    "type": "Earrings",
+    "colour": "Silver",
+    "occasion": "Casual",
+    "season": "Fall",
+    "price": 699,
+    "rating": 4.6,
+    "stock": {
+      "One Size": 1
+    },
+    "image": "/static/images/58086.jpg"
+  },
+  {
+    "id": 8707,
+    "name": "Fastrack Unisex Black Sunglasses",
+    "gender": "Unisex",
+    "category": "Eyewear",
+    "type": "Sunglasses",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1699,
+    "rating": 3.7,
+    "stock": {
+      "One Size": 3
+    },
+    "image": "/static/images/8707.jpg"
+  },
+  {
+    "id": 8616,
+    "name": "Fastrack Unisex Sunglasses M035BR6",
+    "gender": "Unisex",
+    "category": "Eyewear",
+    "type": "Sunglasses",
+    "colour": "Brown",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 2399,
+    "rating": 4.5,
+    "stock": {
+      "One Size": 3
+    },
+    "image": "/static/images/8616.jpg"
+  },
+  {
+    "id": 8660,
+    "name": "Fastrack Titan Unisex Sunglasses FTML008GLGP1",
+    "gender": "Unisex",
+    "category": "Eyewear",
+    "type": "Sunglasses",
+    "colour": "Green",
+    "occasion": "Casual",
+    "season": "Winter",
+    "price": 1399,
+    "rating": 4.6,
+    "stock": {
+      "One Size": 5
+    },
+    "image": "/static/images/8660.jpg"
+  },
+  {
+    "id": 6119,
+    "name": "Puma Unisex Scribble Black Backpack",
+    "gender": "Unisex",
+    "category": "Bags",
+    "type": "Backpacks",
+    "colour": "Black",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1199,
+    "rating": 3.7,
+    "stock": {
+      "One Size": 12
+    },
+    "image": "/static/images/6119.jpg"
+  },
+  {
+    "id": 24725,
+    "name": "United Colors of Benetton Unisex Purple Backpack",
+    "gender": "Unisex",
+    "category": "Bags",
+    "type": "Backpacks",
+    "colour": "Purple",
+    "occasion": "Casual",
+    "season": "Summer",
+    "price": 1499,
+    "rating": 3.8,
+    "stock": {
+      "One Size": 1
+    },
+    "image": "/static/images/24725.jpg"
+  },
+  {
+    "id": 35187,
+    "name": "Wildcraft Unisex Blue & Grey Backpack",
+    "gender": "Unisex",
+    "category": "Bags",
+    "type": "Backpacks",
+    "colour": "Blue",
+    "occasion": "Casual",
+    "season": "Spring",
+    "price": 1799,
+    "rating": 3.7,
+    "stock": {
+      "One Size": 12
+    },
+    "image": "/static/images/35187.jpg"
+  }
+]
