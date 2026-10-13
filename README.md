@@ -21,6 +21,17 @@ customer wants, from text or a photo, and recommends suitable products from the 
 
 3. Open http://localhost:8000
 
+## Deploying to Render (free)
+
+1. Push this repository to GitHub.
+2. On [render.com](https://render.com), choose **New > Blueprint** and select the repository.
+   Render reads `render.yaml` and sets up the web service.
+3. When asked, paste your Gemini API key as the value of `GEMINI_API_KEY`. It is stored in
+   Render, not in the repository.
+
+The free plan puts the service to sleep after about 15 minutes without visitors, so the
+first visit afterwards takes up to a minute to load.
+
 ## Things to try
 
 - "A navy kurta under ₹1500 for a wedding"

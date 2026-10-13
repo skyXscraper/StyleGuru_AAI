@@ -1,0 +1,4 @@
+# Only needed to rebuild the catalogue with scripts/build_catalog.py
+-r requirements.txt
+pandas==3.0.6
+pyarrow==26.0.0
